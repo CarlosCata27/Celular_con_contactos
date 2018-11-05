@@ -1,0 +1,23 @@
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.exe
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.pdb
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.csprojResolveAssemblyReference.cache
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.exe
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.pdb
+C:\Users\Linux2\Documents\GitHub\Celulares\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.exe
+C:\Users\Linux2\Documents\GitHub\Celulares\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.pdb
+C:\Users\Linux2\Documents\GitHub\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.csprojAssemblyReference.cache
+C:\Users\Linux2\Documents\GitHub\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.csproj.CoreCompileInputs.cache
+C:\Users\Linux2\Documents\GitHub\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.exe
+C:\Users\Linux2\Documents\GitHub\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.pdb
+C:\Users\Carlos\Downloads\Celulares-master\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.exe
+C:\Users\Carlos\Downloads\Celulares-master\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.pdb
+C:\Users\Carlos\Downloads\Celulares-master\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.csprojAssemblyReference.cache
+C:\Users\Carlos\Downloads\Celulares-master\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Downloads\Celulares-master\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.exe
+C:\Users\Carlos\Downloads\Celulares-master\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.pdb
+C:\Users\Carlos\OneDrive\Escuela\UPIITA\1TV1\Analisis y Diseño de Sistemas\Programas\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.exe
+C:\Users\Carlos\OneDrive\Escuela\UPIITA\1TV1\Analisis y Diseño de Sistemas\Programas\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.pdb
+C:\Users\Carlos\OneDrive\Escuela\UPIITA\1TV1\Analisis y Diseño de Sistemas\Programas\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.csprojAssemblyReference.cache
+C:\Users\Carlos\OneDrive\Escuela\UPIITA\1TV1\Analisis y Diseño de Sistemas\Programas\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\OneDrive\Escuela\UPIITA\1TV1\Analisis y Diseño de Sistemas\Programas\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.exe
+C:\Users\Carlos\OneDrive\Escuela\UPIITA\1TV1\Analisis y Diseño de Sistemas\Programas\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.pdb
